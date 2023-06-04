@@ -19,5 +19,5 @@ public class Reptiles extends ColdBlooded {
     @Override
     public void defenseMechanism() {
         System.out.println("Turn on the defense mechanism");
-    }
+    } // Some text
 }
