@@ -1,4 +1,6 @@
-package cold;
+package warmth;
+
+import cold.ColdBlooded;
 
 public class Reptiles extends ColdBlooded {
     @Override
